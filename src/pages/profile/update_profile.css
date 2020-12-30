@@ -1,0 +1,17 @@
+.usernamepro,
+.emailpro,
+.phonepro {
+  border: solid 1px #3880ff;
+  margin-top: 3px;
+  border-radius: 5px;
+}
+
+.usernameicon,
+.emailicon,
+.phoneicon {
+  margin: 10px;
+}
+
+.updateproform {
+  margin: 30px;
+}

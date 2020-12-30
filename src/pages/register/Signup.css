@@ -1,0 +1,66 @@
+.daerah {
+  min-width: 100% !important;
+}
+
+.signupform {
+  margin: 0px 20px 0px 20px;
+}
+
+.daftar {
+  margin-top: 20px;
+  width: 100%;
+}
+
+.logohead {
+  width: 200px;
+  height: 120px;
+}
+
+.header {
+  margin-left: 30px;
+}
+
+.name,
+.MYID,
+.email,
+.address,
+.district,
+.gender,
+.phone,
+.races,
+.age,
+.pass1,
+.vpassword {
+  border: solid 1px #3880ff;
+  margin-top: 3px;
+  border-radius: 5px;
+}
+
+.poskod {
+  border: solid 1px #3880ff;
+  margin-top: 3px;
+  border-radius: 5px;
+  padding-right: 10px;
+}
+
+.iconName,
+.iconID,
+.iconEmail,
+.iconPhone,
+.iconAge {
+  margin: 10px;
+}
+
+.iconPost {
+  margin: 10px 5px 10px 5px;
+}
+
+.iconAddress {
+  margin: 0px 5px 0px 5px;
+}
+
+ion-select {
+  color: #3880ff;
+  font-weight: bold;
+  --placeholder-opacity: 1;
+}

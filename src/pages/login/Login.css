@@ -1,0 +1,38 @@
+.logolog {
+  width: 200px;
+  height: 150px;
+  display: block;
+}
+
+.logform {
+  margin: 0 40px 0 40px;
+}
+
+.login {
+  margin-top: 5%;
+  width: 100%;
+}
+
+.form {
+  margin-top: 25%;
+}
+
+.bottom {
+  margin-top: 8%;
+}
+
+.email,
+.password {
+  border: solid 1px #3880ff;
+  margin-top: 3px;
+  border-radius: 5px;
+}
+
+.iconEmail,
+.iconPass {
+  margin: 10px;
+}
+
+.signup {
+  width: 100%;
+}

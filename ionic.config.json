@@ -1,0 +1,7 @@
+{
+  "name": "mbsp_eaduan",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

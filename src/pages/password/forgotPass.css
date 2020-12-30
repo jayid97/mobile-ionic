@@ -1,0 +1,17 @@
+.oldpass {
+  border: solid 1px #3880ff;
+  margin-top: 3px;
+  border-radius: 5px;
+}
+
+.forgotpassicon {
+  margin: 10px;
+}
+
+.updatepass {
+  width: 100%;
+}
+
+.passform {
+  margin: 5px 50px 5px 50px;
+}

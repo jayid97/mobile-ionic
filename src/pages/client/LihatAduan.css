@@ -1,0 +1,14 @@
+ion-card {
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.gambar {
+  width: 100%;
+  margin: 0;
+}
+
+ion-slides {
+  height: 100%;
+}
